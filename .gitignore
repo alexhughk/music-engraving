@@ -1,0 +1,10 @@
+# Lilypond output
+*.pdf
+*midi
+*log
+*.ps
+*.eps
+*.count
+
+# macOS
+.DS_store
