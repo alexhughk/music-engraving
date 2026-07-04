@@ -15,3 +15,45 @@
     }
   >>
 }
+
+\score {
+  <<
+    \new Staff {
+      \clef tenor
+      \celloOne_II
+    }
+    
+    \new Staff {
+      \clef tenor
+      \celloTwo_II
+    }
+  >>
+}
+
+\score {
+  <<
+    \new Staff {
+      \clef tenor
+      \celloOne_III
+    }
+    
+    \new Staff {
+      \clef tenor
+      \celloTwo_III
+    }
+  >>
+}
+
+\score {
+  <<
+    \new Staff {
+      \clef tenor
+      \celloOne_IV
+    }
+    
+    \new Staff {
+      \clef tenor
+      \celloTwo_IV
+    }
+  >>
+}

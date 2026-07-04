@@ -9,3 +9,27 @@ celloOne_I =
 celloTwo_I = 
 \transpose b e
 \violinTwoOriginal_I
+
+celloOne_II = 
+\transpose b e
+\violinOneOriginal_II
+
+celloTwo_II = 
+\transpose b e
+\violinTwoOriginal_II
+
+celloOne_III = 
+\transpose b e
+\violinOneOriginal_III
+
+celloTwo_III = 
+\transpose b e
+\violinTwoOriginal_III
+
+celloOne_IV = 
+\transpose b e
+\violinOneOriginal_IV
+
+celloTwo_IV = 
+\transpose b e
+\violinTwoOriginal_IV
